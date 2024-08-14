@@ -1,2 +1,2 @@
 # dl_7sem
-Tracking progress and implementation of 7 th semester project
+![image](https://github.com/user-attachments/assets/e8d0fd35-a196-4b28-afc0-651dd24e4e64)

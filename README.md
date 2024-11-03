@@ -5,3 +5,8 @@
 `jupyter notebook --no-browser --ip="172.16.2.17" --port=8888 `
 Run in background: `CUDA_VISIBLE_DEVICES=4 nohup python -u Untitled.py 2>&1 &`
 
+| Depth of Network | Training Accuracy | Receptive Field | Validation Accuracy |
+| ---------------- | ----------------- | --------------- | ------------------- |
+|          21      | Content Cell      |      31         | Content Cell        |
+| Content Cell     | Content Cell      | Content Cell    | Content Cell        |
+

@@ -4,11 +4,9 @@
 :ringed_planet: How to run jupyter notebook on server?
 `jupyter notebook --no-browser --ip="172.16.2.17" --port=8888 `
 Run in background: `CUDA_VISIBLE_DEVICES=4 nohup python -u Untitled.py 2>&1 &`
-
 | Depth of Network | Training Accuracy | Receptive Field | Validation Accuracy |
 | ---------------- | ----------------- | --------------- | ------------------- |
-|          20      | 86.34             |      31         | Content Cell        |
-|          21      | 86.34             |      31         | Content Cell        |
-| 22               | 88.08             | 45              | Content Cell        |
-|23                |      88.51             |      45         |                     |
-
+| 20               | 84.64             | 31             | 83.10              |
+| 21               | 86.34             | 31             | 85.25              |
+| 22               | 88.08             | 45             | 86.90              |
+| 23               | 88.51             | 45             | 87.32              |

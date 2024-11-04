@@ -7,6 +7,7 @@ Run in background: `CUDA_VISIBLE_DEVICES=4 nohup python -u Untitled.py 2>&1 &`
 
 | Depth of Network | Training Accuracy | Receptive Field | Validation Accuracy |
 | ---------------- | ----------------- | --------------- | ------------------- |
-|          21      | Content Cell      |      31         | Content Cell        |
-| Content Cell     | Content Cell      | Content Cell    | Content Cell        |
+|          21      | 86.34             |      31         | Content Cell        |
+| 22               | 88.68             | 45              | Content Cell        |
+|23                |                   |      45         |                     |
 
